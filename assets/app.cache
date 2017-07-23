@@ -1,0 +1,22 @@
+CACHE MANIFEST
+# Time: Sun Mar 12 2017 23:47:15 GMT+0200 (EET)
+
+
+CACHE:
+/assets/app.js
+/assets/app.css
+https://fonts.googleapis.com/css?family=Roboto:300,400,500,700
+https://fonts.googleapis.com/icon?family=Material+Icons
+
+NETWORK:
+*
+
+
+FALLBACK:
+/offline 
+
+
+SETTINGS:
+prefer-online
+
+# hash: aba912233d852a0f02ef6610f68c8d464d86e2f072bd11032dd81f02daba7793
