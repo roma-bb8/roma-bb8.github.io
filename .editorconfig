@@ -1,13 +1,10 @@
-# http://EditorConfig.org
-
-
 root = true
 
 [*]
 end_of_line = lf
 insert_final_newline = true
 
-[*.{php,json,md,yml,xml,txt,js,jsx,css,html}]
+[*.{json,md,txt,js,css,html}]
 charset = utf-8
 indent_style = space
 indent_size = 4
