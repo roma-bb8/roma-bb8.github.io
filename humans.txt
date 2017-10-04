@@ -1,0 +1,26 @@
+# http://www.humanstxt.org
+
+
+# TEAM
+
+    Position: Main developer
+    Name: Roma Baranenko
+    Contact: jungle.romabb8@gmail.com
+    Twitter: @roma_bb8
+    From: Dnepr, Ukraine
+
+# THANKS
+
+    Name: full name or nike
+    Twitter: twitter link
+    From: local
+
+# SITE
+
+    Last update: 2017/10/02
+    Doctype: HTML5
+    Standards: HTML5, CSS3, etc.
+    Language: English / Ukraine
+    Components: jQuery
+    Software: Node.JS, NPM, etc.
+    IDE: phpStorm

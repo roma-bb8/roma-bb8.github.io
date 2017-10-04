@@ -1,0 +1,17 @@
+# This tag board for hackers.
+# This is a special place where hackers are permitted to make changes.
+
+
+# EXAMPLE
+
+    Name: nick or full name
+    Contact: email or jabber
+    From: city, country
+    Date: YYYY/MM/DD
+
+# HACKERS
+
+    Name: roma_bb8
+    Contact: jungle.romabb8@gmail.com
+    From: Dnepr, Ukraine
+    Date: 2017/10/02
