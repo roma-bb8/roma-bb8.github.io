@@ -10,8 +10,3 @@
     Date: YYYY/MM/DD
 
 # HACKERS
-
-    Name: roma_bb8
-    Contact: jungle.romabb8@gmail.com
-    From: Dnepr, Ukraine
-    Date: 2017/10/02
