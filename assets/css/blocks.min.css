@@ -31,9 +31,15 @@
 }
 
 .t300__content-title {
-    font-family: 'Roboto', sans-serif;
+    font-family: Roboto, sans-serif;
     font-size: 20px;
     line-height: 28px;
     padding-bottom: 4px;
     margin-top: -4px;
+}
+
+.t300__tooltipster-noir_40944892 {
+    background-color: #000 !important;
+    color: #fff !important;
+    border-radius: 0 !important;
 }
