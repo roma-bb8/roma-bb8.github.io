@@ -44,3 +44,10 @@
     color: #000 !important;
     border-radius: 0 !important;
 }
+
+::selection {
+    background: #4CAF50;
+}
+::-moz-selection {
+    background: #4CAF50;
+}
