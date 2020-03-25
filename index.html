@@ -887,5 +887,27 @@
 <script src="/assets/js/lazy-load.min.js"></script>
 <script src="/assets/js/app.min.js"></script>
 
+    <script src="https://widget.unitpay.ru/unitpay.js"></script>
+<script type="text/javascript">
+    this.pay = function() {
+        var payment = new UnitPay();
+        payment.createWidget({
+            publicKey: "237581-b7010",
+            sum: 1,
+            account: "demo",
+            signature: "14d1f46c54391e5f1c25fa14174a6148a4b3f3136dc0c946d981d2e48a0a95d6",
+            desc: "Описание платежа",
+            locale: "ru",
+        });
+        payment.success(function (params) {
+            console.log('Успешный платеж');
+        });
+        payment.error(function (message, params) {
+            console.log(message);
+        });
+        return false;
+    };
+</script>
+ 
 </body>
 </html>
