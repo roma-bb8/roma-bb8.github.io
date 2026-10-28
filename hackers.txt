@@ -1,0 +1,12 @@
+# This tag board for hackers.
+# This is a special place where hackers are permitted to make changes.
+
+
+# EXAMPLE
+
+    Name: nick or full name
+    Contact: email or jabber
+    From: city, country
+    Date: YYYY/MM/DD
+
+# HACKERS
