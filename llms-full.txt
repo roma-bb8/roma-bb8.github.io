@@ -1,0 +1,244 @@
+# Roman Baranenko
+
+> Roman Baranenko is a software engineer and the Platform Owner at WAVEIX. A blog about software architecture and business, a CV and contacts.
+
+Software Engineer. Building products. I am the Platform Owner at WAVEIX and a developer at UPSTARS. In my free time, I write about software architecture and business.
+
+## In numbers
+
+- **11+** years of experience in software engineering
+- **6** product companies I worked at
+- **1** company I founded
+
+## WAVEIX products
+
+- WAVEIX OSS: https://gitlab.com/waveix
+- WAVEIX Platform
+- WAVEIX Cinema
+- WAVEIX Advertising
+
+## Pages
+
+- [Blog](https://roma-bb8.github.io/blog.md): Notes on software architecture, business and life.
+- [CV](https://roma-bb8.github.io/cv.md)
+- [Privacy policy](https://roma-bb8.github.io/privacy-policy.md)
+
+## Contact
+
+- Email: jungle.romabb8@gmail.com
+- [YouTube](https://www.youtube.com/@roma-bb8)
+- [TikTok](https://www.tiktok.com/@roma-bb8)
+- [Instagram](https://instagram.com/roma-bb8)
+- [Telegram](https://telegram.me/roma_bb8/)
+- RSS: https://roma-bb8.github.io/blog/rss.xml
+
+---
+
+# Roman Baranenko
+
+Senior Software Engineer (PHP, Go)
+
+- Dnipro, Ukraine
+- jungle.romabb8@gmail.com
+- https://roma-bb8.github.io
+- [GitHub](https://github.com/roma-bb8)
+- [LinkedIn](https://www.linkedin.com/in/roma-bb8-/)
+
+
+## Professional experience
+
+### [UPSTARS](https://www.upstars.com/), Senior Software Engineer
+
+July 2025 — present
+
+Developing an internal back-office product that manages and configures public-facing products.
+
+Stack: PHP, Go, PostgreSQL, RabbitMQ, Kubernetes, Helm
+
+### [GST VoIP Solution LTD](https://gst-voip.com/), Team Lead (project work)
+
+September 2024 — March 2025
+
+Led the move of media traffic processing to a distributed architecture.
+
+Stack: PHP, Python, Kamailio, Asterisk, FreeSWITCH, PostgreSQL, RabbitMQ
+
+### [Phonexa Holdings LLC](https://phonexa.com/about-us/), Software Developer
+
+September 2021 — August 2024
+
+Developed an internal product for resource management, statistics collection, cost calculation and document workflow.
+
+Stack: PHP, Yii2, MySQL, Memcached, Redis, MongoDB
+
+## Education
+
+- [Oles Honchar Dnipro National University](https://www.dnu.dp.ua/view/fpm): Software Engineering, 2024 — present
+- [Dnipropetrovsk College of Rocket and Space Engineering, Oles Honchar Dnipro National University](https://dkrkm.org.ua/node/650#kpi1): Software Development, Junior Specialist qualification, 2011 — 2015
+
+## Skills
+
+- **Programming languages:** PHP, Go
+- **Frameworks:** Symfony, Fiber, Yii2
+- **Databases:** MySQL, PostgreSQL, Redis, MongoDB, Elasticsearch
+- **Message brokers:** RabbitMQ, NATS
+- **Tools:** Git, Make, Packer, OpenTofu, Docker, Compose, Kubernetes, Helm, GitLab CI, GraphQL
+- **AI:** Claude Code, APM, OpenSpec
+
+## Languages
+
+- Ukrainian — native
+- English — Pre-Intermediate
+
+## Additional information
+
+- Commercial software development since November 2015.
+- 2023: webinar "A talk on AI agents and the evolution of agents" ([recording, in Ukrainian](https://youtu.be/0Q_-9HGiPWA))
+- Since 2017: founder of the jungle bay open source community (github.com/jungle-bay).
+
+---
+
+# A new site
+
+> Why I rebuilt my personal site on Astro, and what it will cover.
+
+- Author: Roman Baranenko
+- Published: 2026-10-30
+- Tags: personal
+- URL: https://roma-bb8.github.io/blog/hello/
+
+---
+
+The business-card site from 2017 has been replaced. It is now Astro with a blog based on the AstroPaper design. It builds to static files and is published on GitHub Pages.
+
+Posts are split into topics (tags):
+
+- **tech** — architecture, backend, tooling;
+- **personal** — life, thoughts and everything else.
+
+The CV is [here](https://roma-bb8.github.io/cv/).
+
+---
+
+# Новий сайт
+
+> Чому я перебудував особистий сайт на Astro і про що тут буде.
+
+- Автор: Роман Бараненко
+- Опубліковано: 2026-10-30
+- Теги: personal
+- URL: https://roma-bb8.github.io/uk/blog/hello/
+
+---
+
+Старий сайт-візитка з 2017 року отримав заміну. Тепер це Astro з блогом на основі дизайну AstroPaper. Він збирається в статику і публікується на GitHub Pages.
+
+Записи розділені за напрямками (тегами):
+
+- **tech** — архітектура, backend, інструменти;
+- **personal** — життя, думки та все інше.
+
+Якщо потрібне CV, воно [тут](https://roma-bb8.github.io/uk/cv/).
+
+---
+
+# Роман Бараненко
+
+> Роман Бараненко — інженер-програміст, Platform Owner у WAVEIX. Блог про архітектуру ПЗ та бізнес, CV і контакти.
+
+Інженер-програміст. Будую продукти. Я Platform Owner у WAVEIX і розробник в UPSTARS. У вільний час пишу про архітектуру ПЗ та бізнес.
+
+## Цифри
+
+- **11+** років досвіду у розробці ПЗ
+- **6** продуктових компаній, де працював
+- **1** компанію, заснував
+
+## Продукти WAVEIX
+
+- WAVEIX OSS: https://gitlab.com/waveix
+- WAVEIX Платформа
+- WAVEIX Кіно
+- WAVEIX Реклама
+
+## Сторінки
+
+- [Блог](https://roma-bb8.github.io/uk/blog.md): Нотатки про архітектуру ПЗ, бізнес і життя.
+- [CV](https://roma-bb8.github.io/uk/cv.md)
+- [Політика конфіденційності](https://roma-bb8.github.io/uk/privacy-policy.md)
+
+## Контакти
+
+- Пошта: jungle.romabb8@gmail.com
+- [YouTube](https://www.youtube.com/@roma-bb8)
+- [TikTok](https://www.tiktok.com/@roma-bb8)
+- [Instagram](https://instagram.com/roma-bb8)
+- [Telegram](https://telegram.me/roma_bb8/)
+- RSS: https://roma-bb8.github.io/uk/blog/rss.xml
+
+---
+
+# Бараненко Роман Сергійович
+
+Senior Software Engineer (PHP, Go)
+
+- Дніпро, Україна
+- jungle.romabb8@gmail.com
+- https://roma-bb8.github.io
+- [GitHub](https://github.com/roma-bb8)
+- [LinkedIn](https://www.linkedin.com/in/roma-bb8-/)
+
+## Профіль
+
+Senior Software Engineer (PHP, Go) з комерційним досвідом з листопада 2015 року. Розробляю внутрішні back-office системи, збір статистики та документообіг, переводив обробку медіатрафіку на розподілену архітектуру. Працюю з PostgreSQL, RabbitMQ і Kubernetes, використовую Claude Code.
+
+## Досвід роботи
+
+### [UPSTARS](https://www.upstars.com/), Senior Software Engineer
+
+липень 2025 — теперішній час
+
+Розробляю внутрішній продукт (back-office), який відповідає за керування та налаштування публічних продуктів.
+
+Стек: PHP, Go, PostgreSQL, RabbitMQ, Kubernetes, Helm
+
+### [GST VoIP Solution LTD](https://gst-voip.com/), Team Lead (проєктна робота)
+
+вересень 2024 — березень 2025
+
+Переводив обробку медіатрафіку на розподілену архітектуру.
+
+Стек: PHP, Python, Kamailio, Asterisk, FreeSWITCH, PostgreSQL, RabbitMQ
+
+### [Phonexa Holdings LLC](https://phonexa.com/about-us/), Software Developer
+
+вересень 2021 — серпень 2024
+
+Розробляв внутрішній продукт для керування ресурсами, збору статистики, підрахунку витрат і документообігу.
+
+Стек: PHP, Yii2, MySQL, Memcached, Redis, MongoDB
+
+## Освіта
+
+- [Дніпровський національний університет імені Олеся Гончара](https://www.dnu.dp.ua/view/fpm): Інженерія програмного забезпечення, 2024 — теперішній час
+- [Дніпропетровський коледж ракетно-космічного машинобудування ДНУ імені Олеся Гончара](https://dkrkm.org.ua/node/650#kpi1): Розробка програмного забезпечення, кваліфікація «Молодший спеціаліст», 2011 — 2015
+
+## Навички
+
+- **Мови програмування:** PHP, Go
+- **Фреймворки:** Symfony, Fiber, Yii2
+- **Бази даних:** MySQL, PostgreSQL, Redis, MongoDB, Elasticsearch
+- **Брокери повідомлень:** RabbitMQ, NATS
+- **Інструменти:** Git, Make, Packer, OpenTofu, Docker, Compose, Kubernetes, Helm, GitLab CI, GraphQL
+- **ШІ:** Claude Code, APM, OpenSpec
+
+## Мови
+
+- Українська — рідна
+- Англійська — Pre-Intermediate
+
+## Додатково
+
+- Комерційна розробка з листопада 2015 року.
+- 2023: вебінар «Доповідь про AI-агентів, еволюція агентів» ([запис](https://youtu.be/0Q_-9HGiPWA))
+- З 2017: засновник open source спільноти jungle bay (github.com/jungle-bay).

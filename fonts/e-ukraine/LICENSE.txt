@@ -1,0 +1,24 @@
+e-Ukraine typeface
+==================
+
+"e-Ukraine" is the public typeface of the Ministry and the Committee for
+Digital Transformation of Ukraine, released for open use on
+https://thedigital.gov.ua/fonts .
+
+Author:  Ministry of Digital Transformation of Ukraine (Мінцифра) /
+         the "e-Ukraine" design team
+Source:  https://thedigital.gov.ua/fonts
+         official archive: e-Ukraine.zip (OTF, v1.000, 2020-05-19)
+
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+         https://creativecommons.org/licenses/by/4.0/
+
+The .woff2 files in this directory (Light / Regular / Medium / Bold) were
+produced from the official OpenType (.otf) sources with fontTools
+`ttLib.woff2 compress` — format conversion only, no glyph or metric changes.
+The e-Ukraine Head display cut is not bundled here.
+
+Under CC BY 4.0 you are free to share and adapt this material for any
+purpose, including commercially, provided you give appropriate credit,
+link to the license, and indicate if changes were made. Full attribution
+for the on-site use is listed in /third-party-notices.txt and /legal/info.
