@@ -1,7 +1,7 @@
 ﻿Third-party software notices - roma-bb8.github.io
 ========================================================================
 
-Generated: 2026-11-03 (from package-lock.json, production dependencies)
+Generated: 2026-11-04 (from package-lock.json, production dependencies)
 Packages: 219
 
 This site is built with the open-source packages listed below (the production

@@ -20,4 +20,6 @@ Every page also exists as Markdown at the same address without the trailing slas
 
 This repository only contains the **generated static site** that GitHub Pages serves. It is produced automatically and is not edited by hand, so issues and pull requests here cannot change the site. To get in touch, use the contacts on the [site](https://roma-bb8.github.io).
 
+Community files: [Contributing](./CONTRIBUTING.md) · [Accessibility](./ACCESSIBILITY.md) · [Code of Conduct](./CODE_OF_CONDUCT.md) · [Security](./SECURITY.md) · [License](./LICENSE) · [For agents](./AGENTS.md). They come from the private source project like the rest of this repository.
+
 The licenses of the third-party software and the typeface used by the site are listed in [`third-party-notices.txt`](https://roma-bb8.github.io/third-party-notices.txt). The texts and images of the site are © Roman Baranenko, all rights reserved.
