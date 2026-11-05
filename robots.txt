@@ -1,7 +1,0 @@
-# Everything is public, including for search and AI crawlers and agents.
-# Content-Signal (https://contentsignals.org): search results, AI answers and AI training are all allowed.
-User-agent: *
-Content-Signal: search=yes, ai-input=yes, ai-train=yes
-Allow: /
-
-Sitemap: https://roma-bb8.github.io/sitemap-index.xml
